@@ -1,4 +1,4 @@
-About our React App
+
 Our React Game, Math Quest is a website that helps high schoolers catch up with state level standards with fun and educational math games that have tons of practice problems so kids can improve in math and accelerate faster in math tracks in their school.
 # Getting Started with Create React App
 
